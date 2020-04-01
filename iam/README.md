@@ -61,5 +61,5 @@ Policie removed from user rick.sanchez
 
 An error occurred (NoSuchEntity) when calling the DeleteLoginProfile operation: Login Profile for User rick.sanchez cannot be found.
 login-profile deleted from user rick.sanchez
-User rick.sanchez deleted from AWS Maxmilhas ACCOUNT dell-note
+User rick.sanchez deleted from AWS ACCOUNT dell-note
 ```
