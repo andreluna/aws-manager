@@ -33,10 +33,6 @@ terraform # output
 ```
 
 ```bash
-/search_user.sh homologation terraform
-```
-
-```bash
 /delete_user.sh dell-note rick.sanchez
 -------------------------------------------------------------
 Groups from user rick.sanchez:
